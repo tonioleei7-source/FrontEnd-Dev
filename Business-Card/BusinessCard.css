@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+
+}
+
+.Sexy {
+    width: 145px;
+
+}
+
+.styling {
+    color:  #2b2839;
+    border: 1px blue dotted;
+    
+}
+
+.Card {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ddebf8;
+    padding: 20px;
+    margin: 0 auto;
+    text-align:center;
+    border-bottom: 7px solid #d8cefe;
+
+}
